@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'megh-dash-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A47E98381374AEB9F6EB8F067ADF772 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69C97C83C23A4D698CA4984428961ACA }}
